@@ -7,7 +7,9 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 ### Índice de Documentación
 
 #### Sistema
-* [Instalación Odoo Community](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-Odoo-Community)
+* 
+*[Instalación Odoo Community](https://github.com/aliare-srl/instalacion-odoo)
+<!--[Instalación Odoo Community](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-Odoo-Community)-->
 * [Instalación Odoo Enterprise](https://github.com/OdooAR/odoo-argentina-doc/wiki/Instalaci%C3%B3n-de-Odoo-Enterprise)
 * [Instalación Odoo en Docker](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-Odoo-en-Docker)
 * [Instalación de un Módulo de Odoo](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-un-M%C3%B3dulo)
